@@ -5,7 +5,7 @@ plot(x=df_2$Time,
      y=df_2$Sub_metering_1, 
      type="l",
      xlab="",
-     ylab="Global Active Power (killowatts)", 
+     ylab="Energy sub metering", 
      col="black"
 )
 lines(x=df_2$Time,
